@@ -1,4 +1,4 @@
-<center>![image](https://github.com/Nikon2001/Leetcode-Solution/assets/133972697/87b4cfbc-5d56-4ae2-939e-e9e6b54c5232)</center>
+<center>!(https://github.com/Nikon2001/Leetcode-Solution/assets/133972697/87b4cfbc-5d56-4ae2-939e-e9e6b54c5232)</center>
 <br>
 <h1>Leetcode-Solution</h1>
 <br>
